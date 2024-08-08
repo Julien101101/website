@@ -1,5 +1,5 @@
 import React from 'react';
-import Privacy from './Privacy';
+import Privacy from './components/Privacy';
 
 function App() {
   return (
